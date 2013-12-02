@@ -119,7 +119,7 @@
   <project path="packages/apps/Browser" name="oxygen-rom-gb/android_packages_apps_browser" remote="github" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="github" />
+  <project path="packages/apps/Camera" name="PJBrs/packages-apps-Camera" revision="PJBrs" remote="github" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" remote="github" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
@@ -164,7 +164,7 @@
   <!-- project path="vendor/broadcom" name="koush/proprietary_vendor_broadcom" remote="github" / -->
   <!-- project path="vendor/imgtec" name="koush/proprietary_vendor_imgtec" remote="github" / -->
   <!--  project path="vendor/nxp" name="koush/proprietary_vendor_nxp" remote="github" / -->
-  <project path="vendor/oxygen" name="PJBrs/vendor-oxygen" revision="PJBrs" \remote="github" />
+  <project path="vendor/oxygen" name="PJBrs/vendor-oxygen" revision="PJBrs" remote="github" />
   <project path="vendor/google" name="oxygen-rom-gb/android_vendor_google" remote="github" />
   <project path="vendor/htc" name="oxygen-rom-gb/android_vendor_htc" remote="github" />
   <!-- project path="vendor/samsung" name="oxygen-rom-gb/android_vendor_samsung" remote="github" / -->
