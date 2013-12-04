@@ -156,7 +156,7 @@
   <project path="system/bluetooth" name="oxygen-rom-gb/android_system_bluetooth" remote="github" />
   <project path="system/core" name="PJBrs/system-core" revision="PJBrs" remote="github" />
   <project path="system/extras" name="platform/system/extras" />
-  <project path="system/extras/su" name="ChainsDD/su-binary" revision="master" remote="github" />
+  <project path="system/extras/su" name="ChainsDD/su-binary" revision="538413f2b709edceb62943222e07e9a9dce75163" remote="github" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
