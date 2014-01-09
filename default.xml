@@ -112,7 +112,7 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
   <project path="hardware/ril" name="oxygen-rom-gb/android_hardware_ril" remote="github" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="PJBrs/android_libcore" revision="gingerbread" remote="github" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
   <project path="packages/apps/Bluetooth" name="oxygen-rom-gb/android_packages_apps_bluetooth" remote="github" />
@@ -128,7 +128,7 @@
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" />
   <project path="packages/apps/Gallery3D" name="oxygen-rom-gb/android_packages_apps_gallery3d" remote="github" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/Launcher2" name="oxygen-rom-gb/android_packages_apps_launcher2" remote="github" />
+  <project path="packages/apps/Launcher2" name="PJBrs/packages-apps-Launcher2" revision="PJBrs" remote="github" />
   <project path="packages/apps/Mms" name="oxygen-rom-gb/android_packages_apps_mms" remote="github" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
