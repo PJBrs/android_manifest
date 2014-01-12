@@ -88,7 +88,7 @@
   <project path="external/skia" name="oxygen-rom-gb/android_external_skia" remote="github" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
-  <project path="external/sqlite" name="oxygen-rom-gb/android_external_sqlite" remote="github" />
+  <project path="external/sqlite" name="PJBrs/android_external_sqlite" revision="PJBrs" remote="github" />
   <project path="external/srec" name="PJBrs/platform-external-srec" revision="PJBrs" remote="github"/>
   <project path="external/stlport" name="platform/external/stlport" />
   <project path="external/strace" name="platform/external/strace" />
@@ -125,7 +125,7 @@
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
-  <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" revision="PJBrs" remote="github" />
+  <project path="packages/apps/FM" name="PJBrs/packages-apps-FM" revision="PJBrs" remote="github" />
   <project path="packages/apps/Gallery3D" name="oxygen-rom-gb/android_packages_apps_gallery3d" remote="github" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/Launcher2" name="PJBrs/packages-apps-Launcher2" revision="PJBrs" remote="github" />
