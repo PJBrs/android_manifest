@@ -35,7 +35,7 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/chromium" name="platform/external/chromium" />
-  <project path="external/clearsilver" name="platform/external/clearsilver" />
+  <project path="external/clearsilver" name="PJBrs/external_clearsilver" revision="PJBrs" remote="github" />
   <project path="external/dbus" name="PJBrs/external_dbus" revision="PJBrs" remote="github" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" />
