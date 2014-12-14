@@ -12,7 +12,7 @@
   </project>
   <project path="bionic" name="oxygen-rom-gb/android_bionic" remote="github" />
   <project path="bootable/recovery" name="oxygen-rom-gb/android_bootable_recovery" remote="github" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="PJBrs/platform_dalvik.git" revision="PJBrs" remote="github" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/bravo" name="PJBrs/android_device_htc_bravo" revision="PJBrs" remote="github" />
