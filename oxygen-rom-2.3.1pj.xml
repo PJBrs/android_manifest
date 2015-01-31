@@ -25,7 +25,7 @@
   <project name="PJBrs/external_clearsilver" path="external/clearsilver" remote="github" revision="d555d3ab817cfb8d03ec926bb4b4769ff162eca1" upstream="PJBrs"/>
   <project name="PJBrs/external_dbus" path="external/dbus" remote="github" revision="da0b8225bfb7ac5255fa3e9aeb03a71e2dbff442" upstream="PJBrs"/>
   <project name="PJBrs/external_icu4c" path="external/icu4c" remote="github" revision="0e2f5b1ae22e644395f0f6e227dbd3325bbc4dc0" upstream="PJBrs"/>
-  <project name="PJBrs/frameworks-base" path="frameworks/base" remote="github" revision="a31e0c4b81381fecf37f432699f4b7b60ee8ceb3" upstream="PJBrs"/>
+  <project name="PJBrs/platform_frameworks_base" path="frameworks/base" remote="github" revision="a31e0c4b81381fecf37f432699f4b7b60ee8ceb3" upstream="PJBrs"/>
   <project name="PJBrs/hardware-libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="924ae22801e009fb0f17fb572f1e8ec3d007ff37" upstream="PJBrs"/>
   <project name="PJBrs/hardware-msm7k" path="hardware/msm7k" remote="github" revision="4478f83ffaf4d7f8c69e754ebda38fd039f1d041" upstream="PJBrs"/>
   <project name="PJBrs/packages-apps-Camera" path="packages/apps/Camera" remote="github" revision="658c458d9100784dc797d9993e0fb0ffa7c98236" upstream="PJBrs"/>
