@@ -34,7 +34,7 @@
   <project name="PJBrs/platform-external-srec" path="external/srec" remote="github" revision="29db333776c620f2c2da4f4dd43d444099e04145" upstream="PJBrs"/>
   <project name="PJBrs/platform-external-v8" path="external/v8" remote="github" revision="c828584b8e0b7bbe523e8284eecb02e6f8c421a4" upstream="PJBrs"/>
   <project name="PJBrs/platform_dalvik.git" path="dalvik" remote="github" revision="5dc207d5765747c9591c2223e17dcb2aa227c5a7" upstream="PJBrs"/>
-  <project name="PJBrs/system-core" path="system/core" remote="github" revision="b536d22acb49c7fccb88c2489c61da54cb60d0cb" upstream="PJBrs"/>
+  <project name="PJBrs/platform_system_core" path="system/core" remote="github" revision="b536d22acb49c7fccb88c2489c61da54cb60d0cb" upstream="PJBrs"/>
   <project name="PJBrs/thalamus-kernel" path="thalamus-kernel" remote="github" revision="77c2939c2f9bb3595cc2be00956ff90a8ebbbb1c" upstream="PJBrs"/>
   <project name="PJBrs/vendor-oxygen" path="vendor/oxygen" remote="github" revision="f3a1ba7e2cab8c77773f0182bc79c834d10185d1" upstream="PJBrs"/>
   <project name="device/common" revision="c491cd697e4bc16a52e3b1d254e4151ee3aad8bf" upstream="gingerbread"/>

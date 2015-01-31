@@ -154,7 +154,7 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="oxygen-rom-gb/android_system_bluetooth" remote="github" />
-  <project path="system/core" name="PJBrs/system-core" revision="PJBrs" remote="github" />
+  <project path="system/core" name="PJBrs/platform_system_core" revision="PJBrs" remote="github" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="538413f2b709edceb62943222e07e9a9dce75163" remote="github" />
   <project path="system/media" name="platform/system/media" />
